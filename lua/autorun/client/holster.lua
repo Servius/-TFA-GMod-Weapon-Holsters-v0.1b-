@@ -37,7 +37,6 @@ weaponsinfoss["weapon_357"].Bone="ValveBiped.Bip01_Pelvis"
 weaponsinfoss["weapon_357"].BoneOffset={Vector(-5,8,0),Angle(0,270,0)}
 weaponsinfoss["weapon_357"].Priority="gmod_tool"
  
- 
 weaponsinfoss["weapon_frag"]={}
 weaponsinfoss["weapon_frag"].Model="models/Items/grenadeAmmo.mdl"
 weaponsinfoss["weapon_frag"].Bone="ValveBiped.Bip01_Pelvis"
@@ -99,7 +98,6 @@ weaponsinfoss["stunstick"].BoneOffset={Vector(-7,-11,6.5),Angle(0,0,0)}
  
 --	TFA NMRIH (TN)
 --	TN Primaries
-
 weaponsinfoss["tfa_nmrih_m16_ch"]={}
 weaponsinfoss["tfa_nmrih_m16_ch"].Model="models/weapons/tfa_nmrih/w_fa_m16a4_carryhandle.mdl"
 weaponsinfoss["tfa_nmrih_m16_ch"].Bone="ValveBiped.Bip01_Spine2"
@@ -181,7 +179,6 @@ weaponsinfoss["tfa_nmrih_sks_nb"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["tfa_nmrih_sks_nb"].BoneOffset={Vector(3,-5,-6),Angle(30,0,0)}
 
 --	TN Secondaries
-
 weaponsinfoss["tfa_nmrih_mp5"]={}
 weaponsinfoss["tfa_nmrih_mp5"].Model="models/weapons/tfa_nmrih/w_fa_mp5.mdl"
 weaponsinfoss["tfa_nmrih_mp5"].Bone="ValveBiped.Bip01_Spine2"
@@ -218,7 +215,6 @@ weaponsinfoss["tfa_nmrih_mkiii"].Bone="ValveBiped.Bip01_Pelvis"
 weaponsinfoss["tfa_nmrih_mkiii"].BoneOffset={Vector(0,-7.5,1),Angle(5,270,0)}
 
 --	TN Special
-
 weaponsinfoss["tfa_nmrih_flaregun"]={}
 weaponsinfoss["tfa_nmrih_flaregun"].Model="models/weapons/tfa_nmrih/w_fa_flaregun.mdl"
 weaponsinfoss["tfa_nmrih_flaregun"].Bone="ValveBiped.Bip01_Pelvis"
@@ -260,7 +256,6 @@ weaponsinfoss["tfa_nmrih_welder"].Bone="ValveBiped.Bip01_Spine1"
 weaponsinfoss["tfa_nmrih_welder"].BoneOffset={Vector(4,0,4),Angle(-10,0,260)}
 
 --	TN Melee
-
 weaponsinfoss["tfa_nmrih_asaw"]={}
 weaponsinfoss["tfa_nmrih_asaw"].Model="models/weapons/tfa_nmrih/w_me_abrasivesaw.mdl"
 weaponsinfoss["tfa_nmrih_asaw"].Bone="ValveBiped.Bip01_Spine1"
