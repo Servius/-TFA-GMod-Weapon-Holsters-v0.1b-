@@ -459,6 +459,41 @@ weaponsinfoss["tfa_contender"].Model="models/weapons/tfa_w_g2_contender.mdl"
 weaponsinfoss["tfa_contender"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["tfa_contender"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
 
+-- Machine Guns
+weaponsinfoss["tfa_ares_shrike"]={}
+weaponsinfoss["tfa_ares_shrike"].Model="models/weapons/tfa_w_ares_shrike.mdl"
+weaponsinfoss["tfa_ares_shrike"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ares_shrike"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_fg42"]={}
+weaponsinfoss["tfa_fg42"].Model="models/weapons/tfa_w_fg42.mdl"
+weaponsinfoss["tfa_fg42"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_fg42"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_minigun"]={}
+weaponsinfoss["tfa_minigun"].Model="models/weapons/tfa_w_m134_minigun.mdl"
+weaponsinfoss["tfa_minigun"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_minigun"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_m1918bar"]={}
+weaponsinfoss["tfa_m1918bar"].Model="models/weapons/tfa_w_m1918_bar.mdl"
+weaponsinfoss["tfa_m1918bar"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_m1918bar"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_m249lmg"]={}
+weaponsinfoss["tfa_m249lmg"].Model="models/weapons/tfa_w_m249_machine_gun.mdl"
+weaponsinfoss["tfa_m249lmg"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_m249lmg"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_m60"]={}
+weaponsinfoss["tfa_m60"].Model="models/weapons/w_m60_machine_gun.mdl"
+weaponsinfoss["tfa_m60"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_m60"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+
+weaponsinfoss["tfa_pkm"]={}
+weaponsinfoss["tfa_pkm"].Model="models/weapons/w_mach_russ_pkm.mdl"
+weaponsinfoss["tfa_pkm"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_pkm"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
 
 function LPGB(dotrace)
     if !dotrace then
