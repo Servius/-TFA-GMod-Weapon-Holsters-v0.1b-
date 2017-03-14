@@ -83,14 +83,14 @@ weaponsinfoss["weapon_crossbow"].Model="models/weapons/W_crossbow.mdl"
 weaponsinfoss["weapon_crossbow"].Bone="ValveBiped.Bip01_L_Clavicle"
 weaponsinfoss["weapon_crossbow"].BoneOffset={Vector(0,5,-5),Angle(180,90,0)}
 
- -- 의사 치료킷
+ -- Med Kit
  
 weaponsinfoss["med_kit"]={}
 weaponsinfoss["med_kit"].Model="models/Items/HealthKit.mdl"
 weaponsinfoss["med_kit"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["med_kit"].BoneOffset={Vector(1,8.5,0),Angle(90,180,0)}
  
- -- 경찰 스턴봉
+ -- Stun Stick
  
 weaponsinfoss["stunstick"]={}
 weaponsinfoss["stunstick"].Model="models/weapons/w_stunbaton.mdl"
