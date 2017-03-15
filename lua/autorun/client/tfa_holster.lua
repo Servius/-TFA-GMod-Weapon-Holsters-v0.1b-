@@ -346,12 +346,12 @@ weaponsinfoss["tfa_m3"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
 weaponsinfoss["tfa_browningauto5"]={}
 weaponsinfoss["tfa_browningauto5"].Model="models/weapons/tfa_w_browning_auto.mdl"
 weaponsinfoss["tfa_browningauto5"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_browningauto5"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
+weaponsinfoss["tfa_browningauto5"].BoneOffset={Vector(6,12,7),Angle(180,90,0)}
 
 weaponsinfoss["tfa_dbarrel"]={}
 weaponsinfoss["tfa_dbarrel"].Model="models/weapons/tfa_w_double_barrel_shotgun.mdl"
 weaponsinfoss["tfa_dbarrel"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_dbarrel"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
+weaponsinfoss["tfa_dbarrel"].BoneOffset={Vector(6,12,7),Angle(180,90,0)}
 
 weaponsinfoss["tfa_ithacam37"]={}
 weaponsinfoss["tfa_ithacam37"].Model="models/weapons/w_ithaca_m37.mdl"
@@ -366,7 +366,7 @@ weaponsinfoss["tfa_mossberg590"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
 weaponsinfoss["tfa_jackhammer"]={}
 weaponsinfoss["tfa_jackhammer"].Model="models/weapons/tfa_w_pancor_jackhammer.mdl"
 weaponsinfoss["tfa_jackhammer"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_jackhammer"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
+weaponsinfoss["tfa_jackhammer"].BoneOffset={Vector(3.5,12,-2),Angle(0,90,0)}
 
 weaponsinfoss["tfa_remington870"]={}
 weaponsinfoss["tfa_remington870"].Model="models/weapons/w_remington_870_tact.mdl"
@@ -402,98 +402,98 @@ weaponsinfoss["tfa_1887winchester"].BoneOffset={Vector(3.5,-8,-5),Angle(30,0,0)}
 weaponsinfoss["tfa_aw50"]={}
 weaponsinfoss["tfa_aw50"].Model="models/weapons/tfa_w_acc_int_aw50.mdl"
 weaponsinfoss["tfa_aw50"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_aw50"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_aw50"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_barret_m82"]={}
 weaponsinfoss["tfa_barret_m82"].Model="models/weapons/tfa_w_barret_m82.mdl"
 weaponsinfoss["tfa_barret_m82"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_barret_m82"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_barret_m82"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_m98b"]={}
 weaponsinfoss["tfa_m98b"].Model="models/weapons/tfa_w_barrett_m98b.mdl"
 weaponsinfoss["tfa_m98b"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_m98b"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_m98b"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_svu"]={}
 weaponsinfoss["tfa_svu"].Model="models/weapons/tfa_w_dragunov_svu.mdl"
 weaponsinfoss["tfa_svu"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_svu"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_svu"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_sl8"]={}
 weaponsinfoss["tfa_sl8"].Model="models/weapons/tfa_w_hk_sl8.mdl"
 weaponsinfoss["tfa_sl8"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_sl8"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_sl8"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_intervention"]={}
 weaponsinfoss["tfa_intervention"].Model="models/weapons/tfa_w_snip_int.mdl"
 weaponsinfoss["tfa_intervention"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_intervention"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_intervention"].BoneOffset={Vector(6,4,-5),Angle(-0,180,0)}
 
 weaponsinfoss["tfa_m24"]={}
 weaponsinfoss["tfa_m24"].Model="models/weapons/w_snip_m24_6.mdl"
 weaponsinfoss["tfa_m24"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_m24"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_m24"].BoneOffset={Vector(4,6,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_psg1"]={}
 weaponsinfoss["tfa_psg1"].Model="models/weapons/tfa_w_hk_psg1.mdl"
 weaponsinfoss["tfa_psg1"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_psg1"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_psg1"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_remington7615p"]={}
 weaponsinfoss["tfa_remington7615p"].Model="models/weapons/w_remington_7615p.mdl"
 weaponsinfoss["tfa_remington7615p"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_remington7615p"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_remington7615p"].BoneOffset={Vector(6,-4,-8),Angle(-0,0,0)}
 
 weaponsinfoss["tfa_dragunov"]={}
 weaponsinfoss["tfa_dragunov"].Model="models/weapons/tfa_w_svd_dragunov.mdl"
 weaponsinfoss["tfa_dragunov"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_dragunov"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_dragunov"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_svt40"]={}
 weaponsinfoss["tfa_svt40"].Model="models/weapons/tfa_w_svt_40.mdl"
 weaponsinfoss["tfa_svt40"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_svt40"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_svt40"].BoneOffset={Vector(4,10,-8),Angle(-30,90,30)}
 
 weaponsinfoss["tfa_contender"]={}
 weaponsinfoss["tfa_contender"].Model="models/weapons/tfa_w_g2_contender.mdl"
 weaponsinfoss["tfa_contender"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_contender"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_contender"].BoneOffset={Vector(2,16,-8),Angle(-30,90,30)}
 
 -- Machine Guns
 weaponsinfoss["tfa_ares_shrike"]={}
 weaponsinfoss["tfa_ares_shrike"].Model="models/weapons/tfa_w_ares_shrike.mdl"
 weaponsinfoss["tfa_ares_shrike"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_ares_shrike"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_ares_shrike"].BoneOffset={Vector(8,10,8),Angle(-35,90,-140)}
 
 weaponsinfoss["tfa_fg42"]={}
 weaponsinfoss["tfa_fg42"].Model="models/weapons/tfa_w_fg42.mdl"
 weaponsinfoss["tfa_fg42"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_fg42"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_fg42"].BoneOffset={Vector(6,10,8),Angle(-35,90,-140)}
 
 weaponsinfoss["tfa_minigun"]={}
 weaponsinfoss["tfa_minigun"].Model="models/weapons/tfa_w_m134_minigun.mdl"
 weaponsinfoss["tfa_minigun"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_minigun"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_minigun"].BoneOffset={Vector(8,20,0),Angle(-35,90,-140)}
 
 weaponsinfoss["tfa_m1918bar"]={}
 weaponsinfoss["tfa_m1918bar"].Model="models/weapons/tfa_w_m1918_bar.mdl"
 weaponsinfoss["tfa_m1918bar"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_m1918bar"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_m1918bar"].BoneOffset={Vector(6,16,8),Angle(-35,90,-140)}
 
 weaponsinfoss["tfa_m249lmg"]={}
 weaponsinfoss["tfa_m249lmg"].Model="models/weapons/tfa_w_m249_machine_gun.mdl"
 weaponsinfoss["tfa_m249lmg"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_m249lmg"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_m249lmg"].BoneOffset={Vector(8,10,8),Angle(-35,90,-140)}
 
 weaponsinfoss["tfa_m60"]={}
 weaponsinfoss["tfa_m60"].Model="models/weapons/w_m60_machine_gun.mdl"
 weaponsinfoss["tfa_m60"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_m60"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_m60"].BoneOffset={Vector(-3,-10,4),Angle(-85,180,-165)}
 
 weaponsinfoss["tfa_pkm"]={}
 weaponsinfoss["tfa_pkm"].Model="models/weapons/w_mach_russ_pkm.mdl"
 weaponsinfoss["tfa_pkm"].Bone="ValveBiped.Bip01_Spine2"
-weaponsinfoss["tfa_pkm"].BoneOffset={Vector(4,-7,-4),Angle(30,0,0)}
+weaponsinfoss["tfa_pkm"].BoneOffset={Vector(4,10,4),Angle(-90,0,-180)}
 
 --
 --	TFA CS:GO
