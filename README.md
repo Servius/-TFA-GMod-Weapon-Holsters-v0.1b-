@@ -12,7 +12,7 @@ Feel free to contact the people listed here for help:
 - [Curry](http://steamcommunity.com/id/CurryIsCurry/): Project Creator
 - [Servius](http://steamcommunity.com/profiles/76561198036188853/): Project Contributor & Repository Manager. 
 
-##Written Guidance
+####Written Guidance
 
 Some basic Git commands are:
 ```
@@ -32,7 +32,7 @@ weaponsinfoss["weapon_name"].BoneOffset={Vector(0,0,0),Angle(0,0,0)}
 -- this can take some time so be patient and dont be scared to ask for help. 
 ```
 
-##Rules: 
+####Rules: 
 
 - You are not to sell or monetize the work done here. 
 - You may not claim this work as your own as defined in our license. 
