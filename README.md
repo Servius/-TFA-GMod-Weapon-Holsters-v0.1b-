@@ -27,3 +27,13 @@ git add
 git commit -m "what you did as a message here"
 git push
 ```
+
+Here is a simple template to get you started: 
+```lua
+weaponsinfoss["weapon_name"]={}
+weaponsinfoss["weapon_name"].Model="world/model/path/for/gun"
+weaponsinfoss["weapon_name"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["weapon_name"].BoneOffset={Vector(0,0,0),Angle(0,0,0)} 
+-- change the values inside of the parintheses. The vector changes the actual location of the prop. Angle changes the rotation of the weapon. 
+-- this can take some time so be patient and dont be scared to ask for help. 
+```
