@@ -18,3 +18,11 @@ These rules are subject to change overtime.
 Feel free to contact the people listed here for help: 
 - Curry: http://steamcommunity.com/id/CurryIsCurry/
 - Servius: http://steamcommunity.com/profiles/76561198036188853/
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
