@@ -24,5 +24,6 @@ Some basic Git commands are:
 ```
 git status
 git add
-git commit
+git commit -m "what you did as a message here"
+git push
 ```
