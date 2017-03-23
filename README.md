@@ -1,4 +1,4 @@
-# [TFA] Weapon Holstering Repository #
+# [TFA] Weapon Holstering Repository 
 
 Hello and welcome to the TFA WH Project! We aim to provide weapon holstering support to all weapons of popular importance currently on the TFA Base.
 If you would like to contribute your own work, add support for your own weapons, or add support for your favorite pack feel free to fork the project and start working on weapons we currently do not already support. If you are new to git
@@ -12,7 +12,8 @@ Feel free to contact the people listed here for help:
 - [Curry](http://steamcommunity.com/id/CurryIsCurry/): Project Creator
 - [Servius](http://steamcommunity.com/profiles/76561198036188853/): Project Contributor & Repository Manager. 
 
-#Written Guidance#
+##Written Guidance
+
 Some basic Git commands are:
 ```
 git status
@@ -32,6 +33,7 @@ weaponsinfoss["weapon_name"].BoneOffset={Vector(0,0,0),Angle(0,0,0)}
 ```
 
 ##Rules: 
+
 - You are not to sell or monetize the work done here. 
 - You may not claim this work as your own as defined in our license. 
 - You are allowed to modify this addon as long as it doesnt conflict and you understand that you must give us credit for the original source content. 
