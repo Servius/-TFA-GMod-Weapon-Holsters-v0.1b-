@@ -16,8 +16,8 @@ https://www.youtube.com/watch?v=72a28tleThY&t=484s
 These rules are subject to change overtime. 
 
 Feel free to contact the people listed here for help: 
-- Curry: http://steamcommunity.com/id/CurryIsCurry/
-- Servius: http://steamcommunity.com/profiles/76561198036188853/
+- [Curry](http://steamcommunity.com/id/CurryIsCurry/): Project Creator
+- [Servius](http://steamcommunity.com/profiles/76561198036188853/): Project Contributor & Repository Manager. 
 
 
 Some basic Git commands are:
