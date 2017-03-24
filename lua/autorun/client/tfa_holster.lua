@@ -1160,7 +1160,201 @@ weaponsinfoss["tfa_pig_doi_stg44"].Model="models/weapons/tfa_pig_doi/w_tfa_pig_s
 weaponsinfoss["tfa_pig_doi_stg44"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["tfa_pig_doi_stg44"].BoneOffset={Vector(5.5,2,4),Angle(-175,0,0)}
 
+---
+---	Call of Duty 4 SWEPs
+---	Primaries
 
+weaponsinfoss["cod4_ak_new"]={}
+weaponsinfoss["cod4_ak_new"].Model="models/weapons/w_cod4_ak47_c.mdl"
+weaponsinfoss["cod4_ak_new"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_ak_new"].BoneOffset={Vector(5.5,-3,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_74u_new"]={}
+weaponsinfoss["cod4_74u_new"].Model="models/weapons/w_cod4_ak74u_c.mdl"
+weaponsinfoss["cod4_74u_new"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_74u_new"].BoneOffset={Vector(5.5,-3,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_barrett_new"]={}
+weaponsinfoss["cod4_barrett_new"].Model="models/weapons/w_cod4_barrett50cal.mdl"
+weaponsinfoss["cod4_barrett_new"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_barrett_new"].BoneOffset={Vector(5.5,-8,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_dragunov_c"]={}
+weaponsinfoss["cod4_dragunov_c"].Model="models/weapons/w_cod4_drag.mdl"
+weaponsinfoss["cod4_dragunov_c"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_dragunov_c"].BoneOffset={Vector(5.5,-9,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_g3"]={}
+weaponsinfoss["cod4_g3"].Model="models/weapons/w_cod4_g3_new.mdl"
+weaponsinfoss["cod4_g3"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_g3"].BoneOffset={Vector(5.5,-9,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_g36"]={}
+weaponsinfoss["cod4_g36"].Model="models/weapons/w_cod4_g36.mdl"
+weaponsinfoss["cod4_g36"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_g36"].BoneOffset={Vector(5.5,-5,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m1014"]={}
+weaponsinfoss["cod4_m1014"].Model="models/weapons/w_cod4_m1014_1.mdl"
+weaponsinfoss["cod4_m1014"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m1014"].BoneOffset={Vector(5.5,-7,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m14"]={}
+weaponsinfoss["cod4_m14"].Model="models/weapons/w_cod4_m14.mdl"
+weaponsinfoss["cod4_m14"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m14"].BoneOffset={Vector(5.5,-7,-1),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m16"]={}
+weaponsinfoss["cod4_m16"].Model="models/weapons/w_cod4_m16a4.mdl"
+weaponsinfoss["cod4_m16"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m16"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m21sd"]={}
+weaponsinfoss["cod4_m21sd"].Model="models/weapons/w_cod4_m21sd.mdl"
+weaponsinfoss["cod4_m21sd"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m21sd"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m249saw"]={}
+weaponsinfoss["cod4_m249saw"].Model="models/weapons/w_cod4_m249saw.mdl"
+weaponsinfoss["cod4_m249saw"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m249saw"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m40a3"]={}
+weaponsinfoss["cod4_m40a3"].Model="models/weapons/w_cod4_m40a3.mdl"
+weaponsinfoss["cod4_m40a3"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m40a3"].BoneOffset={Vector(5.5,-9,-1.5),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m4a1"]={}
+weaponsinfoss["cod4_m4a1"].Model="models/weapons/w_cod4_m4a1.mdl"
+weaponsinfoss["cod4_m4a1"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m4a1"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_m60"]={}
+weaponsinfoss["cod4_m60"].Model="models/weapons/w_cod4_m60.mdl"
+weaponsinfoss["cod4_m60"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_m60"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_mp44_new"]={}
+weaponsinfoss["cod4_mp44_new"].Model="models/weapons/w_cod4_mp44_c.mdl"
+weaponsinfoss["cod4_mp44_new"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_mp44_new"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_r700"]={}
+weaponsinfoss["cod4_r700"].Model="models/weapons/w_cod4_r700.mdl"
+weaponsinfoss["cod4_r700"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_r700"].BoneOffset={Vector(5.5,-11,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_rpd"]={}
+weaponsinfoss["cod4_rpd"].Model="models/weapons/w_cod4_rpd.mdl"
+weaponsinfoss["cod4_rpd"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_rpd"].BoneOffset={Vector(5.5,-7,0),Angle(-175,0,-0)}
+
+weaponsinfoss["cod4_w1200"]={}
+weaponsinfoss["cod4_w1200"].Model="models/weapons/w_cod4_w1200.mdl"
+weaponsinfoss["cod4_w1200"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_w1200"].BoneOffset={Vector(5.5,-7,-1),Angle(-175,0,-0)}
+
+--	Secondaries
+
+weaponsinfoss["cod4_uzi"]={}
+weaponsinfoss["cod4_uzi"].Model="models/weapons/w_cod4_uzi.mdl"
+weaponsinfoss["cod4_uzi"].Bone="ValveBiped.Bip01_Spine1"
+weaponsinfoss["cod4_uzi"].BoneOffset={Vector(4,-5,9),Angle(-10,0,260)}
+
+weaponsinfoss["cod4_skorp_new"]={}
+weaponsinfoss["cod4_skorp_new"].Model="models/weapons/w_cod4_skorp_c.mdl"
+weaponsinfoss["cod4_skorp_new"].Bone="ValveBiped.Bip01_Spine1"
+weaponsinfoss["cod4_skorp_new"].BoneOffset={Vector(5,-5,9),Angle(-10,0,260)}
+
+weaponsinfoss["cod4_mp5_new"]={}
+weaponsinfoss["cod4_mp5_new"].Model="models/weapons/w_cod4_mp5_c.mdl"
+weaponsinfoss["cod4_mp5_new"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_mp5_new"].BoneOffset={Vector(5.5,-8,1),Angle(-10,0,0)}
+
+weaponsinfoss["cod4_mp5sd"]={}
+weaponsinfoss["cod4_mp5sd"].Model="models/weapons/w_cod4_mp5sd.mdl"
+weaponsinfoss["cod4_mp5sd"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_mp5sd"].BoneOffset={Vector(5.5,-8,1),Angle(-10,0,0)}
+
+weaponsinfoss["cod4_p90"]={}
+weaponsinfoss["cod4_p90"].Model="models/weapons/w_cod4_p90.mdl"
+weaponsinfoss["cod4_p90"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["cod4_p90"].BoneOffset={Vector(5.5,-8,1),Angle(-10,0,0)}
+
+weaponsinfoss["cod4_colt45"]={}
+weaponsinfoss["cod4_colt45"].Model="models/weapons/w_cod4_m191145.mdl"
+weaponsinfoss["cod4_colt45"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["cod4_colt45"].BoneOffset={Vector(0,-8.8,-2),Angle(5,270,-5)}
+
+weaponsinfoss["cod4_deagle_new"]={}
+weaponsinfoss["cod4_deagle_new"].Model="models/weapons/w_cod4_deagle.mdl"
+weaponsinfoss["cod4_deagle_new"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["cod4_deagle_new"].BoneOffset={Vector(0,-8.8,-2),Angle(5,270,-5)}
+
+weaponsinfoss["cod4_m9"]={}
+weaponsinfoss["cod4_m9"].Model="models/weapons/w_cod4_m9.mdl"
+weaponsinfoss["cod4_m9"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["cod4_m9"].BoneOffset={Vector(0,-8.8,-2),Angle(5,270,-5)}
+
+---
+---	TFA Randoms
+---	Keep at bottom (not below Table)
+
+--	Bren
+weaponsinfoss["tfa_pig_doi_bren"]={}
+weaponsinfoss["tfa_pig_doi_bren"].Model="models/weapons/tfa_pig_doi/w_tfa_pig_bren.mdl"
+weaponsinfoss["tfa_pig_doi_bren"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_pig_doi_bren"].BoneOffset={Vector(5.5,2,-1.5),Angle(0,0,-180)}
+
+--	Ravager
+weaponsinfoss["tfa_ravager"]={}
+weaponsinfoss["tfa_ravager"].Model="models/weapons/w_tfa_ico_ravager_sn.mdl"
+weaponsinfoss["tfa_ravager"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ravager"].BoneOffset={Vector(8.5,-24,-9),Angle(-175,0,-0)}
+
+--	Gauss Cannon (DOOM)
+weaponsinfoss["tfa_doom_gauss"]={}
+weaponsinfoss["tfa_doom_gauss"].Model="models/weapons/tfa_doom/w_gauss.mdl"
+weaponsinfoss["tfa_doom_gauss"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_doom_gauss"].BoneOffset={Vector(7.5,-4,-3.6),Angle(90,0,-0)}
+
+--	Freedom SR
+weaponsinfoss["tfa_ins2_codol_free"]={}
+weaponsinfoss["tfa_ins2_codol_free"].Model="models/weapons/tfa_ins2/w_codol_freedom.mdl"
+weaponsinfoss["tfa_ins2_codol_free"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ins2_codol_free"].BoneOffset={Vector(5.5,-4,-1.6),Angle(-175,0,-0)}
+
+--	KSG
+weaponsinfoss["tfa_ins2_ksg"]={}
+weaponsinfoss["tfa_ins2_ksg"].Model="models/weapons/tfa_ins2/w_ksg.mdl"
+weaponsinfoss["tfa_ins2_ksg"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ins2_ksg"].BoneOffset={Vector(5.5,-3,-1.6),Angle(-175,0,-0)}
+
+--	Minimi Para
+weaponsinfoss["tfa_ins2_minimi"]={}
+weaponsinfoss["tfa_ins2_minimi"].Model="models/weapons/tfa_ins2/w_minimi.mdl"
+weaponsinfoss["tfa_ins2_minimi"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ins2_minimi"].BoneOffset={Vector(5.5,-3,-1.6),Angle(-175,0,-0)}
+
+--	MSR
+weaponsinfoss["tfa_ins2_codol_msr"]={}
+weaponsinfoss["tfa_ins2_codol_msr"].Model="models/weapons/tfa_ins2/w_codol_msr.mdl"
+weaponsinfoss["tfa_ins2_codol_msr"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ins2_codol_msr"].BoneOffset={Vector(5.5,-4,-1.6),Angle(-175,0,-0)}
+
+--	RPG-7
+weaponsinfoss["tfa_ins2_rpg"]={}
+weaponsinfoss["tfa_ins2_rpg"].Model="models/weapons/tfa_ins2/w_rpg.mdl"
+weaponsinfoss["tfa_ins2_rpg"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_ins2_rpg"].BoneOffset={Vector(5.5,2,-1.6),Angle(-175,0,-0)}
+
+--	M2 Flamethrower
+weaponsinfoss["weapon_752_m2_flamethrower"]={}
+weaponsinfoss["weapon_752_m2_flamethrower"].Model="models/props_c17/SuitCase_Passenger_Physics.mdl"
+weaponsinfoss["weapon_752_m2_flamethrower"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["weapon_752_m2_flamethrower"].BoneOffset={Vector(8,1,-11),Angle(-175,0,-0)}
+
+---	This is a Table (Below this Text)
 function LPGB(dotrace)
     if !dotrace then
     for i=0,LocalPlayer():GetBoneCount()-1 do
