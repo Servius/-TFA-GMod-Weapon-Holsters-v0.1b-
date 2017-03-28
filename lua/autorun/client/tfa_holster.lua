@@ -1296,6 +1296,41 @@ weaponsinfoss["cod4_m9"].Model="models/weapons/w_cod4_m9.mdl"
 weaponsinfoss["cod4_m9"].Bone="ValveBiped.Bip01_Pelvis"
 weaponsinfoss["cod4_m9"].BoneOffset={Vector(0,-8.8,-2),Angle(5,270,-5)}
 
+
+
+-- TFA Star Wars Holstering
+
+-- Star Wars Mega Pack
+weaponsinfoss["tfa_swch_z6"]={}
+weaponsinfoss["tfa_swch_z6"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
+weaponsinfoss["tfa_swch_z6_green"]={}
+weaponsinfoss["tfa_swch_z6_green"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6_green"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6_green"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
+weaponsinfoss["tfa_swch_z6_purple"]={}
+weaponsinfoss["tfa_swch_z6_purple"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6_purple"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6_purple"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
+weaponsinfoss["tfa_swch_z6_red"]={}
+weaponsinfoss["tfa_swch_z6_red"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6_red"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6_red"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
+weaponsinfoss["tfa_swch_z6_white"]={}
+weaponsinfoss["tfa_swch_z6_white"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6_white"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6_white"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
+weaponsinfoss["tfa_swch_z6_yellow"]={}
+weaponsinfoss["tfa_swch_z6_yellow"].Model="models/weapons/w_minigun.mdl"
+weaponsinfoss["tfa_swch_z6_yellow"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_swch_z6_yellow"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
+
 ---
 ---	TFA Randoms
 ---	Keep at bottom (not below Table)
