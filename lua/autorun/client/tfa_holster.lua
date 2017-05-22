@@ -1331,6 +1331,23 @@ weaponsinfoss["tfa_swch_z6_yellow"].Model="models/weapons/w_minigun.mdl"
 weaponsinfoss["tfa_swch_z6_yellow"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["tfa_swch_z6_yellow"].BoneOffset={Vector(4,8,-3.6),Angle(90,90,-0)}
 
+--- TFA L'aigle
+
+weaponsinfoss["tfa_flintlockrifle"]={}
+weaponsinfoss["tfa_flintlockrifle"].Model="models/weapons/rarri/w_flintlockrifle.mdl"
+weaponsinfoss["tfa_flintlockrifle"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_flintlockrifle"].BoneOffset={Vector(3.8,-14,-5),Angle(-175,0,0)}
+
+weaponsinfoss["tfa_m1777"]={}
+weaponsinfoss["tfa_m1777"].Model="models/weapons/rarri/w_m1777.mdl"
+weaponsinfoss["tfa_m1777"].Bone="ValveBiped.Bip01_Spine2"
+weaponsinfoss["tfa_m1777"].BoneOffset={Vector(3.8,-14,-5.5),Angle(-175,0,0)}
+
+weaponsinfoss["tfa_newlandpattern"]={}
+weaponsinfoss["tfa_newlandpattern"].Model="models/weapons/rarri/w_newlandpattern.mdl"
+weaponsinfoss["tfa_newlandpattern"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["tfa_newlandpattern"].BoneOffset={Vector(.5,5.5, 7),Angle(90,0,-90)}
+
 ---
 ---	TFA Randoms
 ---	Keep at bottom (not below Table)
@@ -1388,6 +1405,38 @@ weaponsinfoss["weapon_752_m2_flamethrower"]={}
 weaponsinfoss["weapon_752_m2_flamethrower"].Model="models/props_c17/SuitCase_Passenger_Physics.mdl"
 weaponsinfoss["weapon_752_m2_flamethrower"].Bone="ValveBiped.Bip01_Spine2"
 weaponsinfoss["weapon_752_m2_flamethrower"].BoneOffset={Vector(8,1,-11),Angle(-175,0,-0)}
+
+--	TES:III Broadswords and Sabers
+
+weaponsinfoss["weapon_mor_steel_saber"]={}
+weaponsinfoss["weapon_mor_steel_saber"].Model="models/morrowind/steel/saber/w_steel_saber.mdl"
+weaponsinfoss["weapon_mor_steel_saber"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_steel_saber"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
+
+weaponsinfoss["weapon_mor_iron_saber"]={}
+weaponsinfoss["weapon_mor_iron_saber"].Model="models/morrowind/iron/saber/w_iron_saber.mdl"
+weaponsinfoss["weapon_mor_iron_saber"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_iron_saber"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
+
+weaponsinfoss["weapon_mor_ebony_broadsword"]={}
+weaponsinfoss["weapon_mor_ebony_broadsword"].Model="models/morrowind/ebony/broadsword/w_ebony_broadsword.mdl"
+weaponsinfoss["weapon_mor_ebony_broadsword"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_ebony_broadsword"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
+
+weaponsinfoss["weapon_mor_imperial_broadsword"]={}
+weaponsinfoss["weapon_mor_imperial_broadsword"].Model="models/morrowind/imperial/broadsword/w_imperial_broadsword.mdl"
+weaponsinfoss["weapon_mor_imperial_broadsword"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_imperial_broadsword"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
+
+weaponsinfoss["weapon_mor_iron_broadsword"]={}
+weaponsinfoss["weapon_mor_iron_broadsword"].Model="models/morrowind/iron/broadsword/w_iron_broadsword.mdl"
+weaponsinfoss["weapon_mor_iron_broadsword"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_iron_broadsword"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
+
+weaponsinfoss["weapon_mor_nordic_broadsword"]={}
+weaponsinfoss["weapon_mor_nordic_broadsword"].Model="models/morrowind/nordic/broadsword/w_nordic_broadsword.mdl"
+weaponsinfoss["weapon_mor_nordic_broadsword"].Bone="ValveBiped.Bip01_Pelvis"
+weaponsinfoss["weapon_mor_nordic_broadsword"].BoneOffset={Vector(1,9, -1),Angle(0,90,90)}
 
 ---	This is a Table (Below this Text)
 function LPGB(dotrace)
